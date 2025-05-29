@@ -1,5 +1,8 @@
 # RISC-V-Single-Cycle
 - This repository contains the implementation of a single-cycle processor based on the RISC-V ISA.
+- #### This is the block diagram for the project
+![Digital Design and Computer Architecture RISC-V Edition]([https://github.com/user-attachments/assets/ffdec348-2d48-408c-be1c-ff8f9904076d](https://mrce.in/ebooks/Digital%20Design%20&%20Computer%20Architecture%20RISC-V%20Edition.pdf))
+
 - We divide our microarchitectures into two interacting parts: the data path and the control unit.
 - The datapath operates on words of data. It  contains structures such  as memories, registers, ALUs, and multiplexers.
 - The control unit receives the current instruction from  the datapath and tells the  datapath how to execute that instruction.
