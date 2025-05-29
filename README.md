@@ -6,6 +6,7 @@
 - The control unit produces multiplexer select, register enable,  and memory write  signals to control the operation of the datapath.
   
 ## Architecture Design
+![image](https://github.com/user-attachments/assets/19c835b7-5519-4e24-8431-f625cb0c5571)
 
 ## Instruction Set Support
 | Type | Instructions |
