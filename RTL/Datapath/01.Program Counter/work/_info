@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vProgram_Counter
+Z1 !s100 UKCoK7<g1bCMn2m^kZ6mL2
+Z2 IE^D;nQ=I>FL8[?M36PI5A2
+Z3 VfkdZ6ga531=:hjg`[^@nH3
+Z4 dD:\Hardware\Digital Design\Projects\RISC-V\RISC-V-Single_Cycle\RTL\Datapath\01.Program Counter
+Z5 w1745344239
+Z6 8D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter.v
+Z7 FD:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter.v|
+Z10 o-work work -O0
+Z11 n@program_@counter
+!i10b 1
+!s85 0
+Z12 !s108 1747264930.943000
+Z13 !s107 D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter.v|
+!s101 -O0
+vProgram_Counter_tb
+!i10b 1
+!s100 3oZn;dQ00R6;_:o?Lb:FR3
+Ic_dSY8h^2lQ32_RD][AoS3
+Z14 V28f`RgENDKI9cV4NLi^Ig0
+R4
+w1747264917
+Z15 8D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter_tb.v
+Z16 FD:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1747264931.115000
+!s107 D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter_tb.v|
+!s101 -O0
+R10
+Z18 n@program_@counter_tb

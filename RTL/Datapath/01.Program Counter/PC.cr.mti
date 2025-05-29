@@ -1,0 +1,15 @@
+{D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter.v} {1 {vlog -work work {D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Program_Counter
+
+Top level modules:
+	Program_Counter
+
+} {} {}} {D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter_tb.v} {1 {vlog -work work {D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/01.Program Counter/Program_Counter_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Program_Counter_tb
+
+Top level modules:
+	Program_Counter_tb
+
+} {} {}}

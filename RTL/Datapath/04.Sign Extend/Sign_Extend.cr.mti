@@ -1,0 +1,15 @@
+{D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/04.Sign Extend/Extend_Unit.v} {1 {vlog -work work {D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/04.Sign Extend/Extend_Unit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Extend_Unit
+
+Top level modules:
+	Extend_Unit
+
+} {} {}} {D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/04.Sign Extend/Extend_Unit_tb.v} {1 {vlog -work work {D:/Hardware/Digital Design/Projects/RISC-V/RISC-V-Single_Cycle/RTL/Datapath/04.Sign Extend/Extend_Unit_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Extend_Unit_tb
+
+Top level modules:
+	Extend_Unit_tb
+
+} {} {}}
